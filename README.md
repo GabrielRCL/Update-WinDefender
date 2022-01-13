@@ -1,2 +1,0 @@
-# Update-WinDefender
- Signature Update
